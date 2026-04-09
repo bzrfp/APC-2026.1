@@ -1,3 +1,5 @@
+#resolução realizada durante a semana 4 
+
 valor =  int(input())
 
 cedcem = valor//100
