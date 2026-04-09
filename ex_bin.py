@@ -1,7 +1,7 @@
 num = int(input())
 
 
-if (num >= 1 and num <= 15): 
+if (num >= 0 and num <= 15): 
     
     d1 = num % 2
     d2 = (num//2)%2
