@@ -1,3 +1,5 @@
+#resolução realizada durante a semana 4 
+
 t = int(input())
 
 h = t//3600
