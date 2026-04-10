@@ -1,24 +1,43 @@
-#solução semana 4 
-#Algum teste ainda está dando erro 
+#solucao semana 4 
 valor =  float(input())
+cents = valor*100
 
 #Cédulas
-ced_100 = valor//100
-ced_50 = (valor%100)//50
-ced_20 = ((valor%100)%50)//20
-ced_10 = (((valor%100)%50)%20)//10
-ced_5 = ((((valor%100)%50)%20)%10)//5
-ced_2 = (((((valor%100)%50)%20)%10)%5)//2
+ced_100 = cents//10000
+cents %= 10000
 
-menor_que_dois = ((((((valor%100)%50)%20)%10)%5)%2)
+ced_50 = cents//5000
+cents %= 5000
+
+ced_20 = cents//2000
+cents %= 2000
+
+ced_10 = cents//1000
+cents %= 1000
+
+ced_5 = cents//500
+cents %= 500
+
+ced_2 = cents//200
+cents %= 200
 
 #Moedas
-mod_100 = menor_que_dois//1
-mod_50 = (menor_que_dois - mod_100)//0.5
-mod_25 = (menor_que_dois - mod_100 - 0.5*mod_50)//0.25
-mod_10 = (menor_que_dois - mod_100 - 0.5*mod_50 - 0.25*mod_25)//0.1
-mod_05 = (menor_que_dois - mod_100 - 0.5*mod_50 - 0.25*mod_25 - 0.1*mod_10)//0.05
-mod_01 = (menor_que_dois - mod_100 - 0.5*mod_50 - 0.25*mod_25 - 0.1*mod_10 - 0.05*mod_05)//0.01
+mod_100 = cents//100
+cents %= 100
+
+mod_50 = cents//50
+cents %= 50
+
+mod_25 = cents//25
+cents %= 25
+
+mod_10 = cents//10
+cents %= 10
+
+mod_05 = cents//5
+cents %= 5
+
+mod_01 = cents
 
 print("NOTAS:")
 
