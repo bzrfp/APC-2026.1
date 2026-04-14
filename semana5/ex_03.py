@@ -1,3 +1,4 @@
+#Dadas sequências de ingredientes, apresente a receita de uma sobremesa 
 sabor1, sabor2, sabor3 = input().split()
 cober1, cober2 = input().split(",")
 calda = input()
