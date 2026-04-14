@@ -1,3 +1,5 @@
+#Dada uma postagem qualquer, calcule o tempo necessário para que um adulto médio consiga ler todo seu conteúdo
+#Mostre em duas linhas diferentes o pior tempo estimado e o melhor tempo estimado
 s = input()
 
 s = len(s)
