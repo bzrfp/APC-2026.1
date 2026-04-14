@@ -1,3 +1,4 @@
+#Escreva um programa que leia três caracteres e os apresente de diversas formas diferentes.
 c1 = input()
 c2 = input()
 c3 = input()
