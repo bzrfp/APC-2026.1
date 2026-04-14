@@ -1,3 +1,5 @@
+#Escreva um programa que leia um caractere do teclado e o apresente de diversas formas diferentes.
+
 car = input()
 
 print(car)
