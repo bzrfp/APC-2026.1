@@ -1,3 +1,4 @@
+#Dada a descrição de um horário, diga quantos segundos já se passaram no dia
 hh, mm, ss = map(int, input().split(":"))
 
 tseg = hh*3600 + mm*60 + ss
