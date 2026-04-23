@@ -1,5 +1,4 @@
 #ex fixacao, recibo simples
-
 p, q, v = input().split()
 
 q = int(q)
