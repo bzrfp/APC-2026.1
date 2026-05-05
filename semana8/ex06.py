@@ -25,5 +25,5 @@ else :
     
     sem_restantes = 10 - total_sem
     
-    print(f"Ufa, ele ainda não virou um gato. Aproveite esses {sem_restantes} semestres!")
+    print(f"Ufa, ele ainda não virou um gato. Aproveite esse(s) {sem_restantes} semestre(s)!")
 
