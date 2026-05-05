@@ -10,7 +10,7 @@ semana3 - Algoritmos
 semana4 - Variáveis, expressões e instruções (conversão de números binários)   
 semana5 - Variáveis, expressões e instruções  
 semana6 - Variáveis, expressões e instruções  
-semana7 - Funções
+semana7 - Funções   
 semana8 - Condicionais
 
 # Exercícios extra:
