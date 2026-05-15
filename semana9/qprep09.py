@@ -9,6 +9,6 @@ for i in range (n):
     soma = soma + x
     
     
-print(f"Dados úteis: {soma} bytes")
+print(f"Dados uteis: {soma} bytes")
 print(f"Total transmitido: {soma + n*c} bytes")
 print(f"Eficiencia: {((soma/(soma+n*c))*100):.2f}%")
