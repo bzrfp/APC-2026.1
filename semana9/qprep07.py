@@ -33,7 +33,7 @@ for i in range (0, n, tamanho):
     
     checksum = calcular_checksum(pacote) 
     
-    print (f"Pacote {x}: [{pacote}]  | Checksum: {checksum} ")
+    print (f"Pacote {x}: [{pacote}] | Checksum: {checksum} ")
     
     
 print (f"Total de pacotes: {x}")
