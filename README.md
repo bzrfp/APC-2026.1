@@ -13,7 +13,7 @@ semana6 - Variáveis, expressões e instruções
 semana7 - Funções   
 semana8 - Condicionais e iteração   
 semana9 - Iteração   
-semana10 - Strings
+semana10 - Strings   
 semana11 - Listas
 
 ### Exercícios extra:
