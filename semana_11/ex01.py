@@ -1,3 +1,5 @@
+#verifique se os números em l são múltiplos de n
+
 l = list(map(int, input().split()))
 n = int(input())
 
