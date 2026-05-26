@@ -1,0 +1,9 @@
+#Escreva um programa que recebe uma quantidade de inteiros separados por um espaço em uma linha.
+#Na outra linha, dois inteiros que representam o índice inicial e final do fatiamento, respectivamente. 
+#Como saída o programa deve apresentar a lista fatiada conforme os índices recebidos.
+
+l = list(map(int, input().split()))
+
+intervalo = list(map(int, input().split()))
+
+print(l[intervalo[0]:intervalo[1]])
