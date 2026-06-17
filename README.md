@@ -16,7 +16,8 @@ semana9 - Iteração
 semana10 - Strings   
 semana11 - Listas   
 semana12 - Dicionários e tuplas   
-semana13 - Recursividade
+semana13 - Recursividade   
+semana14 - Revisão
 
 ### Exercícios extra:
 
