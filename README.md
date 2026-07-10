@@ -1,6 +1,6 @@
 Este repositório contém resoluções para os exercícios propostos na disciplina de Algoritmos e Programação de Computadores (APC) no 26.1. 
 
-## Estrutura do repositório:
+## Estrutura do repositório
 
 Os códigos estão separados de acordo com as semanas. Abaixo há uma breve descrição dos conteúdos passados em cada uma delas: 
 
@@ -19,15 +19,15 @@ semana12 - Dicionários e tuplas
 semana13 - Recursividade   
 semana14 - Revisão
 
-### Exercícios extra:
+### Exercícios extra
 
 Para além dos exercícios propostos durante as aulas, há também resoluções de problemas do beecrowd, que podem ser encontrados na pasta beecrowd_problemas/
 
-## Linguagem: 
+## Linguagem
 
 - python
 
-## Objetivos:
+## Objetivos
 
 Os objetivos desse repositório são: 
 
